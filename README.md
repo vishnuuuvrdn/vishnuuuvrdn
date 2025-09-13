@@ -2,18 +2,6 @@
 
 <strong>I am Vishnu Vardhan!</strong> A passionate and focused CyberSecurity student, building a strong foundation in ethical hacking, network security, and system exploitation. I enjoy learning by doing and aim to grow into a skilled penetration tester and security researcher.
 
-## Certifications
-- <p dir="auto">
-  <strong>Certified Ethical Hacker Certificate</strong>
-  <br>
-  <em>issued by: EC-Council </em>
-  <br>
-  <a href="https://drive.google.com/file/d/1kxxEByn6HF1QXGv0kXeOJXYfZIbv2TeS/view?usp=sharing"
-    target="_blank"> Veiw Certificate </a>
-</p>
-
-- More certificates will be added soon
-
 ## Skills
 <p>
 <strong>Languages:</strong>
@@ -38,8 +26,17 @@
 ![Wireshark](https://img.shields.io/badge/%F0%9F%A6%88_Wireshark-1e1e1e?)
 </p>
 
-## Projects
-- <a href="https://github.com/vishnuuvardn/WinWifiDump" target="_blank">WinWifiDump</a>
+## Certifications
+- <p dir="auto">
+  <strong>Certified Ethical Hacker Certificate</strong>
+  <br>
+  <em>issued by: EC-Council </em>
+  <br>
+  <a href="https://drive.google.com/file/d/1kxxEByn6HF1QXGv0kXeOJXYfZIbv2TeS/view?usp=sharing"
+    target="_blank"> Veiw Certificate </a>
+</p>
+
+- More certificates will be added soon
 
 ## Badges
 <p>
@@ -55,6 +52,9 @@
 <img width="100" height="100" alt="python-essentials-1 1" src="https://github.com/user-attachments/assets/a87246e3-18a4-4cc0-ade1-65b85d917aed" />
 </a>
 </p>
+
+## Projects
+- <a href="https://github.com/vishnuuvardn/WinWifiDump" target="_blank">WinWifiDump</a>
 
 ## Contact Me
 - `vishnuvardhan9376@gmail.com`
