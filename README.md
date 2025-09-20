@@ -49,8 +49,12 @@
   <img width="100" height="100" alt="Windows Fundamentals" src="https://github.com/user-attachments/assets/826c384f-bf2b-4ba4-b196-50f70919a46c" />
 <a/>
 <a href="https://www.credly.com/badges/92d0681c-202b-4214-bd6c-97029686e31b/public_url">
-<img width="100" height="100" alt="python-essentials-1 1" src="https://github.com/user-attachments/assets/a87246e3-18a4-4cc0-ade1-65b85d917aed" />
+  <img width="100" height="100" alt="python-essentials-1 1" src="https://github.com/user-attachments/assets/a87246e3-18a4-4cc0-ade1-65b85d917aed" />
 </a>
+<a href="https://www.credly.com/badges/d1152703-176e-45e5-a22f-fe69770f978e/public_url">
+  <img width="100" height="100" alt="image" src="https://github.com/user-attachments/assets/257b6f09-c68d-4381-81ad-74dd467c26c3" />
+</a>
+
 </p>
 
 ## Projects
