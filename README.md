@@ -66,3 +66,4 @@ I am <strong>Vishnu Vardhan!</strong> a Passionate student building a strong fou
 
 ## Contact Me
 - `vishnuvardhan9376@gmail.com`
+- `<a href="https://t.me/vishnuuuvrdn" target="_blank">telegram</a>`
