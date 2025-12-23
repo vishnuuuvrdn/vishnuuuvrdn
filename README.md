@@ -1,8 +1,6 @@
 ## Hi there! 👋
 
-<strong>I am Vishnu Vardhan!</strong> 
-
-A Passionate student building a strong foundation in <strong>Full-Stack Development</strong> and <strong>Problem Solving</strong>
+I am <strong>Vishnu Vardhan!</strong> a Passionate student building a strong foundation in <strong>Full-Stack Development</strong> and <strong>Problem Solving</strong>
 
 ## Skills
 <p>
