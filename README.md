@@ -4,7 +4,7 @@ I am <strong>Vishnu Vardhan!</strong> a Passionate student building a strong fou
 
 
 <a href="https://leetcode.com/u/vishnuuuvrdn/" target="">
-  <strong>My Leetcode Profile</strong>
+  <strong>Leetcode Profile!</strong>
 </a>
 
 ## Skills
