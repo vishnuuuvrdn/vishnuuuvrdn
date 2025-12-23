@@ -65,5 +65,5 @@ I am <strong>Vishnu Vardhan!</strong> a Passionate student building a strong fou
 - <a href="https://github.com/vishnuuvardn/WinWifiDump" target="_blank">WinWifiDump</a>
 
 ## Contact Me
-- `vishnuvardhan9376@gmail.com`
-- <a href="https://t.me/vishnuuuvrdn" target="_blank">`telegram`</a>
+- Mail: `vishnuvardhan9376@gmail.com`
+- <a href="https://t.me/vishnuuuvrdn" target="_blank">`Telegram`</a>
