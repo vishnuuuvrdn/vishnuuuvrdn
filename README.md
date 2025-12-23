@@ -2,10 +2,10 @@
 
 I am <strong>Vishnu Vardhan!</strong> a Passionate student building a strong foundation in <strong>Full-Stack Development</strong> and <strong>Problem Solving</strong>
 
-## Leetcode
-<p>
-  <a href="https://leetcode.com/u/vishnuuuvrdn/" target="_blank">My Leetcode Profile</a>
-</p>
+
+<a href="https://leetcode.com/u/vishnuuuvrdn/" target="">
+  <strong>My Leetcode Profile</strong>
+</a>
 
 ## Skills
 <p>
