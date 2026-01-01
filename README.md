@@ -37,13 +37,16 @@ I am <strong>Vishnu Vardhan!</strong> a Passionate student building a strong fou
   <em>issued by: EC-Council </em>
   <br>
   <a href="https://drive.google.com/file/d/1kxxEByn6HF1QXGv0kXeOJXYfZIbv2TeS/view?usp=sharing"
-    target="_blank"> Veiw Certificate </a>
+    target="_blank"> Veiw Cert </a>
 </p>
-- <p>
+- <p dir="auto">
   <strong>Docker</strong>
   <br>
-  <a href="https://drive.google.com/file/d/1QyT5Ayrk-a8ILg-Gw15FBDm4cyiGnbU9/view?usp=sharing" target="_blank"> View Certificate</a>
-  <a href="https://www.udemy.com/certificate/UC-2c936a3d-f767-4c54-b9c8-3a447d45c3c4/?utm_campaign=email&utm_medium=email&utm_source=sendgrid.com" target="_blank">Verify</a>
+  <em>issued by: Logix-Academy Udemy</em>
+  <br>
+  <a href="https://drive.google.com/file/d/1QyT5Ayrk-a8ILg-Gw15FBDm4cyiGnbU9/view?usp=sharing" target="_blank"> View Cert</a>
+  <br>
+  <a href="https://www.udemy.com/certificate/UC-2c936a3d-f767-4c54-b9c8-3a447d45c3c4/?utm_campaign=email&utm_medium=email&utm_source=sendgrid.com" target="_blank">Verify Cert</a>
 </p>
 
 - More certificates will be added soon
