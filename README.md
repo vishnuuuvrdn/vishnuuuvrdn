@@ -39,7 +39,8 @@ I am <strong>Vishnu Vardhan!</strong> a Passionate student building a strong fou
   <a href="https://drive.google.com/file/d/1kxxEByn6HF1QXGv0kXeOJXYfZIbv2TeS/view?usp=sharing"
     target="_blank"> Veiw Cert </a>
 </p>
-- <p dir="auto">
+
+- <p>
   <strong>Docker</strong>
   <br>
   <em>issued by: Logix-Academy Udemy</em>
