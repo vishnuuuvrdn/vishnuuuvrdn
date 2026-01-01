@@ -62,7 +62,7 @@ I am <strong>Vishnu Vardhan!</strong> a Passionate student building a strong fou
 </p>
 
 ## Projects
-- <a href="https://github.com/vishnuuvardn/WinWifiDump" target="_blank">WinWifiDump</a>
+
 - <a href="https://github.com/vishnuuuvrdn/Telugu-Translator-Extension" target="_blank"> Telugu-Tanslator-Extension </a>
 - <em>Working on Full-Stack Projects Will update soon!!</em>
 
