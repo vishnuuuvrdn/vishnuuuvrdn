@@ -45,8 +45,7 @@ I am <strong>Vishnu Vardhan!</strong> a Passionate student building a strong fou
   <br>
   <em>issued by: Udemy </em>
   <br>
-  <a href="https://drive.google.com/file/d/1QyT5Ayrk-a8ILg-Gw15FBDm4cyiGnbU9/view?usp=sharing" target="_blank"> View Certificate</a>&nbsp;&nbsp;&nbsp;
-  <a href="https://www.udemy.com/certificate/UC-2c936a3d-f767-4c54-b9c8-3a447d45c3c4/?utm_campaign=email&utm_medium=email&utm_source=sendgrid.com" target="_blank">Verify Certificate</a>
+  <a href="https://ude.my/UC-2c936a3d-f767-4c54-b9c8-3a447d45c3c4/" target="_blank"> View Certificate</a>
 </p>
 
 - More certificates will be added soon
