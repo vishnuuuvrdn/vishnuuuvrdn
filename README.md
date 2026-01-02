@@ -76,4 +76,4 @@ I am <strong>Vishnu Vardhan!</strong> a Passionate student building a strong fou
 ## Let's Connect!
 - `vishnuvardhan9376@gmail.com`
 - <a href="https://t.me/vishnuuuvrdn" target="_blank">`telegram`</a>
-- <a href="instagram.com/vishnuuuvrdn" target="_blank">`instagram`</a>
+- <a href="https://instagram.com/vishnuuuvrdn" target="_blank">`instagram`</a>
