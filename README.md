@@ -1,6 +1,6 @@
 ## Hi there! 👋
 
-I am <strong>Vishnu Vardhan!</strong> <em>a Passionate student building a strong foundation in <strong>Full-Stack Development</strong> and <strong>Problem Solving</strong></em>
+<em>I am <strong>Vishnu Vardhan!</strong> a Passionate student building a strong foundation in <strong>Full-Stack Development</strong> and <strong>Problem Solving</strong></em>
 
 
 <a href="https://leetcode.com/u/vishnuuuvrdn/" target="">
