@@ -73,6 +73,7 @@ I am <strong>Vishnu Vardhan!</strong> a Passionate student building a strong fou
 - <a href="https://github.com/vishnuuuvrdn/Telugu-Translator-Extension" target="_blank"> Telugu-Tanslator-Extension </a>
 - <em>Working on Full-Stack Projects Will update soon!!</em>
 
-## Contact Me
+## Let's Connect!
 - `vishnuvardhan9376@gmail.com`
-- <a href="https://t.me/vishnuuuvrdn" target="_blank">`Telegram`</a>
+- <a href="https://t.me/vishnuuuvrdn" target="_blank">`telegram`</a>
+- <a href="instagram.com/vishnuuuvrdn" target="_blank">`instagram`</a>
