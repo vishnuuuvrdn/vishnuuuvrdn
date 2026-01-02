@@ -18,7 +18,7 @@ I am <strong>Vishnu Vardhan!</strong> a Passionate student building a strong fou
 <p>
 <strong>Operating Systems:</strong>
   
-![Windows](https://img.shields.io/badge/Windows-1e1e1e?logo=Windows&logoColor=skyblue)
+![Windows](https://img.shields.io/badge/%F0%9F%AA%9F%EF%B8%8F_Windows-1e1e1e?)
 ![Kali Linux](https://img.shields.io/badge/Kali_Linux-1e1e1e?logo=kalilinux&logoColor=skyblue)
 ![Linux](https://img.shields.io/badge/Linux-1e1e1e?logo=linux&logoColor=white)
 </p>
@@ -26,8 +26,7 @@ I am <strong>Vishnu Vardhan!</strong> a Passionate student building a strong fou
 <strong>Tools:</strong>
 
 ![Nmap](https://img.shields.io/badge/%F0%9F%93%A1_Nmap-1e1e1e?)
-![Metasploit](https://img.shields.io/badge/%F0%9F%9B%A0%EF%B8%8F_Metasploit_Framework-1e1e1e?)
-![Wireshark](https://img.shields.io/badge/%F0%9F%A6%88_Wireshark-1e1e1e?)
+![Docker](https://img.shields.io/badge/%F0%9F%90%8B%EF%B8%8F_Docker-1e1e1e?)
 </p>
 
 ## Certifications
