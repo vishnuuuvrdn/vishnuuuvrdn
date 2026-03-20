@@ -21,7 +21,6 @@
   
 ![Windows](https://img.shields.io/badge/%F0%9F%AA%9F%EF%B8%8F_Windows-1e1e1e?)
 ![Kali Linux](https://img.shields.io/badge/Kali_Linux-1e1e1e?logo=kalilinux&logoColor=skyblue)
-![Linux](https://img.shields.io/badge/Linux-1e1e1e?logo=linux&logoColor=white)
 </p>
 <p>
 <strong>Tools:</strong>
