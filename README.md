@@ -65,6 +65,8 @@
 
 ## Projects
 
+- <a href="https://github.com/vishnuuuvrdn/MovieApp" > CineScope </a>
+- <a href="https://github.com/vishnuuuvrdn/Devfolio" > Devfolio </a>
 - <a href="https://github.com/vishnuuuvrdn/Telugu-Translator-Extension" target="_blank"> Telugu-Tanslator-Extension </a>
 - <em>Working on Full-Stack Projects Will update soon!!</em>
 
