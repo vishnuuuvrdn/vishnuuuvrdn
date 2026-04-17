@@ -14,18 +14,10 @@
   ![C++](https://img.shields.io/badge/C++-1e1e1e?style=flat-square&logo=C%2B%2B&logoColor=white)
   ![JavaScript](https://img.shields.io/badge/JavaScript-1e1e1e?logo=javascript)
   ![Python](https://img.shields.io/badge/Python-1e1e1e?logo=python)
-  ![Bash](https://img.shields.io/badge/Bash-1e1e1e?logo=gnubash&logoColor=white)
-</p>
-<p>
-<strong>Operating Systems:</strong>
-  
-![Windows](https://img.shields.io/badge/%F0%9F%AA%9F%EF%B8%8F_Windows-1e1e1e?)
-![Kali Linux](https://img.shields.io/badge/Kali_Linux-1e1e1e?logo=kalilinux&logoColor=skyblue)
 </p>
 <p>
 <strong>Tools:</strong>
-
-![Nmap](https://img.shields.io/badge/%F0%9F%93%A1_Nmap-1e1e1e?)
+  
 ![Docker](https://img.shields.io/badge/%F0%9F%90%8B%EF%B8%8F_Docker-1e1e1e?)
 </p>
 
@@ -50,22 +42,25 @@
 - More certificates will be added soon
 
 ## Badges
-<p>
-<img width="100" height="100" alt="CEH_9582F3793CA1" src="https://github.com/user-attachments/assets/b2937b5c-eee4-4a2e-86cb-11b34e569d02" />
-<img width="100" height="100" alt="CEH_2E345519D3F7" src="https://github.com/user-attachments/assets/7444cc63-2c1c-49fe-92a4-6c6b10f21f0d" />
-<a href="https://academy.hackthebox.com/achievement/badge/6967c21d-0084-11f0-864f-bea50ffe6cb4">
-  <img width="100" height="100" alt="Our favorite seabird" src="https://github.com/user-attachments/assets/d74b8e3a-6d06-4b88-b190-b1e39b204498" />
-<a/>
-<a href="https://academy.hackthebox.com/achievement/badge/f8969bdf-6b5c-11f0-bcfd-bea50ffe6cb4">
-  <img width="100" height="100" alt="Windows Fundamentals" src="https://github.com/user-attachments/assets/826c384f-bf2b-4ba4-b196-50f70919a46c" />
-<a/>
-<a href="https://www.credly.com/badges/92d0681c-202b-4214-bd6c-97029686e31b/public_url">
-  <img width="100" height="100" alt="python-essentials-1 1" src="https://github.com/user-attachments/assets/a87246e3-18a4-4cc0-ade1-65b85d917aed" />
-</a>
-<a href="https://www.credly.com/badges/d1152703-176e-45e5-a22f-fe69770f978e/public_url">
-  <img width="100" height="100" alt="image" src="https://github.com/user-attachments/assets/257b6f09-c68d-4381-81ad-74dd467c26c3" />
-</a>
+<p align="center">
+  <img width="100" src="https://github.com/user-attachments/assets/b2937b5c-eee4-4a2e-86cb-11b34e569d02" />
+  <img width="100" src="https://github.com/user-attachments/assets/7444cc63-2c1c-49fe-92a4-6c6b10f21f0d" />
 
+  <a href="https://academy.hackthebox.com/achievement/badge/6967c21d-0084-11f0-864f-bea50ffe6cb4">
+    <img width="100" src="https://github.com/user-attachments/assets/d74b8e3a-6d06-4b88-b190-b1e39b204498" />
+  </a>
+
+  <a href="https://academy.hackthebox.com/achievement/badge/f8969bdf-6b5c-11f0-bcfd-bea50ffe6cb4">
+    <img width="100" src="https://github.com/user-attachments/assets/826c384f-bf2b-4ba4-b196-50f70919a46c" />
+  </a>
+
+  <a href="https://www.credly.com/badges/92d0681c-202b-4214-bd6c-97029686e31b/public_url">
+    <img width="100" src="https://github.com/user-attachments/assets/a87246e3-18a4-4cc0-ade1-65b85d917aed" />
+  </a>
+
+  <a href="https://www.credly.com/badges/d1152703-176e-45e5-a22f-fe69770f978e/public_url">
+    <img width="100" src="https://github.com/user-attachments/assets/257b6f09-c68d-4381-81ad-74dd467c26c3" />
+  </a>
 </p>
 
 ## Projects
