@@ -2,8 +2,6 @@
 
 <em>I am <strong>Vishnu Vardhan!</strong> a Passionate student building strong foundation in <strong>Full-Stack Development</strong> and <strong>Problem Solving</strong></em>
 
-<strong>Currently i'm Working On a <a href="https://github.com/vishnuuuvrdn/To-Do-App">To-Do-App</a></strong> <em>(that stores your tasks inside your Notion workspace)</em>
-
 <a href="https://leetcode.com/u/vishnuuuvrdn/" target="">
   <strong>Leetcode Profile!</strong>
 </a>
