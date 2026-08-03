@@ -8,7 +8,9 @@
 
 ## Projects
 
+- <a href="https://github.com/vishnuuuvrdn/codesync" > CodeSync </a>
 - <a href="https://github.com/vishnuuuvrdn/Cineboxd" > Cineboxd </a>
+- <a href="https://github.com/vishnuuuvrdn/fileshare" > Fileshare </a>
 - <a href="https://github.com/vishnuuuvrdn/FormEZ" > FormEZ </a>
 - <a href="https://github.com/vishnuuuvrdn/Devfolio" > Devfolio </a>
 - <a href="https://github.com/vishnuuuvrdn/PDF-Fetch" > PDF-Fetch </a>
