@@ -15,7 +15,6 @@
 - <a href="https://github.com/vishnuuuvrdn/Devfolio" > Devfolio </a>
 - <a href="https://github.com/vishnuuuvrdn/PDF-Fetch" > PDF-Fetch </a>
 - <a href="https://github.com/vishnuuuvrdn/Telugu-Translator-Extension" target="_blank"> Telugu-Tanslator-Extension </a>
-- <em>Working on Full-Stack Projects. Will update soon!!</em>
 
 
 ## Skills
