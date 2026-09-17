@@ -8,10 +8,7 @@
 
 ## Projects
 
-- <a href="https://github.com/vishnuuuvrdn/codesync" > CodeSync </a>
 - <a href="https://github.com/vishnuuuvrdn/Cineboxd" > Cineboxd </a>
-- <a href="https://github.com/vishnuuuvrdn/fileshare" > Fileshare </a>
-- <a href="https://github.com/vishnuuuvrdn/FormEZ" > FormEZ </a>
 - <a href="https://github.com/vishnuuuvrdn/Devfolio" > Devfolio </a>
 - <a href="https://github.com/vishnuuuvrdn/PDF-Fetch" > PDF-Fetch </a>
 - <a href="https://github.com/vishnuuuvrdn/Telugu-Translator-Extension" target="_blank"> Telugu-Tanslator-Extension </a>
@@ -23,7 +20,6 @@
 
   ![C++](https://img.shields.io/badge/C++-1e1e1e?style=flat-square&logo=C%2B%2B&logoColor=white)
   ![JavaScript](https://img.shields.io/badge/JavaScript-1e1e1e?logo=javascript)
-  ![Python](https://img.shields.io/badge/Python-1e1e1e?logo=python)
 </p>
 <p>
 <strong>Tools:</strong>
